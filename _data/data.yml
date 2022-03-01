@@ -66,7 +66,7 @@ career-profile:
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
-    time: 2018 Aug - current
+    time: 2018 Aug - Current
     details: |
       Software Engineering
 
@@ -94,6 +94,16 @@ experiences:
       of the database, the work was just to apply the new requirements if
       there were any
 
+  - role: Ruby on Rails Trainee
+    time: 2021 Nov - Current
+    company: BrightCoders Academy
+    details: |
+      Here I learned about Ruby on Rails (database management, html.erb, models
+      and controllers) and worked on a project called Seeker. I was able to organize
+      the team and get a minimum viable product for the given time and considering
+      that all my team was beginner level in rails, but we were able to achieve the
+      MVP according to what we planned.
+
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -116,14 +126,14 @@ skills:
     - name: HTML
       level: 60%
 
-    - name: CSS
+    - name: SCSS
       level: 60%
 
-    - name: C/C++
+    - name: Python
       level: 40%
 
     - name: Ruby
-      level: 20%
+      level: 60%
 
 # NO MODIFICAR
 footer: >
